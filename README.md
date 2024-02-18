@@ -2,7 +2,7 @@
 
 <h3 align="center">Welcome to my page, It's Kevin L. A Passionate Software Engineer</h3>
 
-- 🔭 I’m currently working as **Modeling and Simulation Engineer**
+- 🔭 I’m currently working as **Modeling and Simulation Engineer for a Fortune 500 Company**
 - 🌱 I’m currently learning **Algorithms, Machine Learning, LLM, Langchain, Diffusion Model**
 
 <!--<h3 align="left">Connect with me:</h3>-->
