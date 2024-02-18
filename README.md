@@ -5,7 +5,7 @@
 - 🔭 I’m currently working as **Modeling and Simulation Engineer**
 - 🌱 I’m currently learning **Algorithms, Machine Learning, LLM, Langchain, Diffusion Model**
 
-<h3 align="left">Connect with me:</h3>
+<!--<h3 align="left">Connect with me:</h3>-->
 <p align="left">
 </p>
 
